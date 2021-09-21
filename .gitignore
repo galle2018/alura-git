@@ -16,4 +16,5 @@ doc/*.txt
 # ignorar todos os arquivos .pdf no diretório doc/
 doc/**/*.pdf
 
+# ignorar este archivo especifico
 desktop.ini
